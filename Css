@@ -1,0 +1,45 @@
+html {
+  background-color: black;
+}
+img {
+  background: url(apple-256.svg);
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  left: 110px;
+  top: 36px;
+}
+.produtos {
+  color: #ffffff;
+  position: absolute;
+  width: 42px;
+  height: 24px;
+  left: 850px;
+  top: 22px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+}
+p1 {
+  position: absolute;
+  width: 42px;
+  height: 24px;
+  left: 100px;
+  top: 18px;
+}
+p2 {
+  position: absolute;
+  width: 42px;
+  height: 24px;
+  left: 200px;
+  top: 18px;
+}
+p3 {
+  position: absolute;
+  width: 42px;
+  height: 24px;
+  left: 300px;
+  top: 18px;
+}
